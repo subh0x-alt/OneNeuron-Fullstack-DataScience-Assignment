@@ -1,6 +1,7 @@
 # iNeuron-OneNeuron_Fullstack_DataScience_Assignements
 
-### Python Basic Assignments: 1/25
+### Python Basic Assignments: 
+1/25 <br>
 ### Python Advance Assignment:
 ### Python Basic Programming Assignments:
 ### Python Advance Programming Assignment:
