@@ -4,9 +4,9 @@
   
 | :white_check_mark: | Assignments | Progress |
 | ---- | :---- | :--------: |
-| :white_square_button: |Python Basic Assignments | ***1/25*** |
+| :white_square_button: |Python Basic Assignments | ***0/25*** |
 | :white_square_button: |Python Advance Assignment | ***0/25*** |
-| :white_square_button: |Python Basic Programming Assignment | ***0/25*** |
+| :white_square_button: |Python Basic Programming Assignment | ***2/25*** |
 | :white_square_button: |Python Advance Programming Assignment | ***0/25*** |
 | :white_square_button: |Machine Learning Assignment | ***0/25*** |
 | :white_square_button: |Machine Learning Practical Assignment | ***0/25*** |
