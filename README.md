@@ -6,7 +6,7 @@
 | ---- | :---- | :--------: |
 | :white_square_button: |Python Basic Assignments | ***0/25*** |
 | :white_square_button: |Python Advance Assignment | ***0/25*** |
-| :eight_pointed_black_star: |Python Basic Programming Assignment | ***5/25*** |
+| :eight_pointed_black_star: |Python Basic Programming Assignment | ***6/25*** |
 | :white_square_button: |Python Advance Programming Assignment | ***0/25*** |
 | :white_square_button: |Machine Learning Assignment | ***0/24*** |
 | :white_square_button: |Machine Learning Practical Assignment | ***0/9*** |
